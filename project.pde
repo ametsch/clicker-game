@@ -1,7 +1,7 @@
 // Need G4P library
 import g4p_controls.*;
-import shapes.*;
-import interfascia.*;
+//import shapes.*;
+//import interfascia.*;
 int score = 0;
 
 public void setup(){
